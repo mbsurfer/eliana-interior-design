@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import "global.css";
+
+body { text-align: center;}
+
+#container { width: 630px; margin: 30px auto; position:relative;}
+
+h1 { text-align: center;}
+
+h2 { background: url(images/header_bg.jpg) no-repeat 0 0; width: 380px; height: 23px; text-align: center; margin: 0 auto; padding-top: 12px; font-family:"Times New Roman", Times, serif; font-size: 18px; color: #6a6868; font-weight: normal; margin-top: 13px;}
+
+.contact { text-align: center; font-family:"Times New Roman", Times, serif; color: #8a8a8a; font-size: 14px; margin-top: 5px; margin-bottom: 12px;}
+.contact a { color: #8f538f; text-decoration: none;}
+.contact a:hover { text-decoration: underline;}
+
+#b-contact { margin-top: 0px; margin-bottom: 25px;}
+#b-contact img { margin-top: 15px;}
+
+#pictures { width: 590px; margin: 0 auto; margin-bottom: 10px;}
+#pictures img { float: left; padding: 10px;}
+
+#bio { font-family:Arial, Helvetica, sans-serif; font-size: 14px; color: #858585; text-align: left; }
+#bio p { margin-bottom: 1.6em; line-height: 1.6em;}

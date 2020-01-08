@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import "global.css";
+
+body { text-align: left;}
+
+#container { width: 800px; margin: 15px 40px 0px; position:relative;}
+
+h1 { }
+
+h2 { padding-left: 10px; font-family:"Times New Roman", Times, serif; font-size: 20px; color: #464545; font-weight: normal; margin-top: 10px;}
+
+.contact {font-family:"Times New Roman", Times, serif; color: #8a8a8a; font-size: 16px; margin-top: 5px; margin-bottom: 10px; padding-left: 10px;}
+.contact span { width: 130px; display: block; float: left;}
+.contact a { color: #8a8a8a; text-decoration: none;}
+.contact a:hover { text-decoration: underline;}
+
+#b-contact { margin-top: 0px; margin-bottom: 15px;}
+#b-contact img { margin-top: 10px; margin-bottom: 5px;}
+
+#pictures { margin-bottom: 0; width: 800px;}
+#pictures img { float: left; padding: 10px;}
+
+#bio { font-family:Arial, Helvetica, sans-serif; font-size: 16px; color: #858585; padding-left: 10px; text-align: justify; width: 635px; margin-bottom: 40px; font-style:italic;}
+#bio p { margin-bottom: 0; line-height: 1.6em;}
