@@ -1,5 +1,5 @@
 <?php
-    $carousel_images = [
+    $carousel_images = array(
         "/new/slider/modern_eclective_interior_design.JPG",
         "/new/slider/asian_inspired_interior_design.jpg",
         "/new/slider/custom_interior_design.jpg",
@@ -17,7 +17,7 @@
         "/new/slider/Traditional_European_interior_design.JPG",
         "/new/slider/sustainable_recyclable_materials_and_design.jpg",
         "/new/slider/custom_bathroom_wall_treatment.jpg"
-    ];
+    );
 ?>
 <!doctype html>
 <html lang="en">
