@@ -239,8 +239,8 @@
       <hr />
       <p>
         Click each to expand: <br>
-        <a href="#" data-toggle="modal" data-target="#imgModal" data-imgsrc="new/interior-design/ga-houses-architecture-magazine-cover.jpg">GA Houses Magazine Cover</a> <br>
-        <a href="new/documents/harpersbazaar.pdf" target="_blank"> UK Harper's Baazar</a>
+        <a href="#" data-toggle="modal" data-target="#imgModal" data-imgsrc="/new/interior-design/ga-houses-architecture-magazine-cover.jpg">GA Houses Magazine Cover</a> <br>
+        <a href="/new/documents/harpersbazaar.pdf" target="_blank"> UK Harper's Baazar</a>
       </p>
 
     </div>
@@ -272,7 +272,7 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-body">
-        <img src="new/interior-design/ga-houses-architecture-magazine-cover.jpg" class="text-center" style="max-width: 100%" />
+        <img src="" class="text-center" style="max-width: 100%" />
       </div>
     </div>
   </div>
